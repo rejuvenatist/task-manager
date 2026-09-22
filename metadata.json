@@ -1,0 +1,5 @@
+{
+  "name": "task manager",
+  "description": "A dark-themed, Notion-style task manager with list views, Chinese localization, and custom properties.",
+  "requestFramePermissions": []
+}
